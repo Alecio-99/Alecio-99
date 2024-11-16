@@ -27,4 +27,15 @@
 
 Meu nome é Alecio, tenho 27 anos, e estou em constante busca por oportunidades para aprimorar minha trajetória profissional na área de TI. Estou genuinamente comprometido em contribuir para a transformação tecnológica em curso no mundo.</br>
 Durante minha graduação e até o momento presente, dediquei considerável energia para absorver a teoria e estou determinado a colocar em prática o conhecimento adquirido, além de continuar ampliando meu aprendizado.</br>
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Atualmente, estou focado em estudar Java/Spring Boot, buscando aprofundar ainda mais minha expertise na linguagem.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Atualmente, estou focado em estudar Java/Spring Boot, buscando aprofundar ainda mais minha expertise na linguagem.</br>
+
+## Experiência Profissional 
+INDRA/MINSAIT - ANALISTA DE SISTEMAS - Junho/2022 Atual. 
+
+## Principais responsabilidades
+- Análise de Causa Raiz: Realização de análises para identificar problemas sistêmicos, com foco em otimizar a eficiência e a estabilidade.</br> 
+- Ajuste de Código Java: Análise e ajuste de código Java, garantindo a qualidade e o desempenho do software.</br>
+- Manutenção de Bancos de Dados: Desenvolvimento e aprimoramento de procedures e execução de querys SQL para garantir a integridade e eficiência dos dados.</br>
+- Automação com Scripts Shell: Desenvolvimento de scripts em shell para automação de processos e melhorias em larga escala, aumentando a produtividade e reduzindo falhas.</br>
+- Desenvolvimento de Soluções Inovadoras: Participação ativa em projetos externos da empresa, utilizando tecnologias como Java/Spring Boot em conjunto com React para criar soluções de alta qualidade.</br>
+- Alinhamento e Resolução Ágil: Participação em reuniões diárias para alinhamento de tarefas e discussão de incidentes relacionados ao sistema, garantindo comunicação eficaz e rápida resolução de problemas.</br>
